@@ -1,0 +1,10 @@
+/*
+ * Tên file: CustomExceptionExample.java
+ * Tác giả: Luan NT
+ * Ngày tạo: Feb 22, 2024
+ */
+package com.luan.exceptions;
+
+public class CustomExceptionExample {
+
+}

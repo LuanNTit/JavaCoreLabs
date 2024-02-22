@@ -1,0 +1,11 @@
+/*
+ * Tên file: WriteByFileOutputStream.java
+ * Tác giả: Luan NT
+ * Ngày tạo: Feb 22, 2024
+ */
+package com.luan.files;
+
+import java.io.FileOutputStream;
+
+public class WriteByFileOutputStream {
+}
